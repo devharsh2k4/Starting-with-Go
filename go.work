@@ -1,0 +1,5 @@
+go 1.21.3
+
+use ./01hello
+use ./02variables\
+use ./02variables/03userinput
