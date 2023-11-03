@@ -6,3 +6,4 @@ use ./03userinput
 use ./04conversion
 use ./05mymaths
 use ./06mytime
+use ./07pointers
